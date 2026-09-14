@@ -1,6 +1,7 @@
+
 # Administración de Sistemas Operativos
 
-### ASIR
+## ASIR 2026/2027
 
 Repositorio de prácticas, ejercicios y apuntes de Administración de Sistemas Operativos de JSG.
 
@@ -37,19 +38,19 @@ Prácticas relacionadas con la administración de servidores Linux.
 
 ---
 
-## UT05 - Administración de procesos
+### UT05 - Administración de procesos
 
 ---
 
-## UT06 - Gestión de tareas
+### UT06 - Gestión de tareas
 
 ---
 
-## UT07 - Active Directory
+### UT07 - Active Directory
 
 ---
 
-## UT08 - Integración de sistemas heterogéneos
+### UT08 - Integración de sistemas heterogéneos
 
 ---
 
