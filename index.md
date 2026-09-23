@@ -12,7 +12,6 @@ Repositorio de prácticas, ejercicios y apuntes de Administración de Sistemas O
 ### 👣 UT01 - Creación de la página de GitHub con Git
 
 - [PR0101](UT01/pr0101/pr0101.md) Repositorio de prácticas
-- [PR0102](UT01/pr0102/pr0102.md)
 
 ---
 
@@ -22,8 +21,8 @@ Repositorio de prácticas, ejercicios y apuntes de Administración de Sistemas O
 
 Prácticas relacionadas con la administración de servidores Linux.
 
-- [PR0201](UT02/pr0201/pr0201.md)
-- [PR0202](UT02/pr0202/pr0202.md)
+- [PR0201](UT02/pr0201/pr0201.md) Administración remota en Windows
+- [PR0202](UT02/pr0202/pr0202.md) Conexión SSH
 
 ---
 
