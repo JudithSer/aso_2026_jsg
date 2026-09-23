@@ -15,7 +15,7 @@ Repositorio de prácticas, ejercicios y apuntes de Administración de Sistemas O
 
 ---
 
-### 🐧 UT02 - Administración remota del sistema
+### 💻 UT02 - Administración remota del sistema
 
 ---
 
@@ -26,7 +26,7 @@ Prácticas relacionadas con la administración de servidores Linux.
 
 ---
 
-### 🐧💻 UT03 - SCRIPTING EN BASH
+### 💻 UT03 - SCRIPTING EN BASH
 
 - [PR0301](UT03/pr0301/pr0301.md)
 - [PR0302](UT03/pr0302/pr0302.md)
