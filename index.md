@@ -9,13 +9,13 @@ Repositorio de prácticas, ejercicios y apuntes de Administración de Sistemas O
 
 ## Unidades de trabajo
 
-### 👣 UT01 - Creación de la página de GitHub con Git
+### 👣 UT01 - INTRODUCCIÓN Y PREPARACIÓN DEL ENTORNO
 
 - [PR0101](UT01/pr0101/pr0101.md) Repositorio de prácticas
 
 ---
 
-### 🐧 UT02 - Administración de Linux Server
+### 🐧 UT02 - Administración remota del sistema
 
 ---
 
@@ -26,7 +26,7 @@ Prácticas relacionadas con la administración de servidores Linux.
 
 ---
 
-### 🐧💻 UT03 - Lenguajes de scripting en Linux: Bash
+### 🐧💻 UT03 - SCRIPTING EN BASH
 
 - [PR0301](UT03/pr0301/pr0301.md)
 - [PR0302](UT03/pr0302/pr0302.md)
