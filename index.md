@@ -26,10 +26,10 @@ Prácticas relacionadas con la administración de servidores Linux.
 
 ---
 
-### 💻 UT03 - SCRIPTING EN BASH
+### 💻 UT03 - Scripting en BASH
 
 - [PR0301](UT03/pr0301/pr0301.md) Primeros scripts en Bash
-- [PR0302](UT03/pr0302/pr0302.md)
+- [PR0302](UT03/pr0302/pr0302.md) Condicional ```if```
 
 ---
 
