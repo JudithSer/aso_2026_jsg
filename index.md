@@ -30,6 +30,8 @@ Prácticas relacionadas con la administración de servidores Linux.
 
 - [PR0301](UT03/pr0301/pr0301.md) Primeros scripts en Bash
 - [PR0302](UT03/pr0302/pr0302.md) Condicional ```if```
+- [PR0303](UT03/pr0303/pr0303.md) Parámetros en Bash
+- [PR0304](UT03/pr0304/pr0304.md) El comando ```case```
 
 ---
 
@@ -50,6 +52,24 @@ Prácticas relacionadas con la administración de servidores Linux.
 ---
 
 ### UT08 - Integración de sistemas heterogéneos
+
+---
+
+## Apuntes por temario
+
+- [A01](A01/a01/a01.md) INTRODUCCIÓN Y PREPARACIÓN DEL ENTORNO
+- [A02](A02/a02/a02.md) ADMINISTRACIÓN REMOTA DEL SISTEMA
+- [A03](A03/a03/a03.md) SCRIPTING EN BASH
+- [A04](A04/a04/a04.md) Scripting en PowerShell
+- [A05](A05/a05/a05.md) Administración de procesos
+- [A06](A06/a06/a06.md) Gestión de tareas
+- [A07](A07/a07/a07.md) Active Directory
+- [A08](A08/a08/a08.md) Integración de sistemas heterogéneos
+
+---
+
+## Información a tener en cuenta
+
 
 ---
 
