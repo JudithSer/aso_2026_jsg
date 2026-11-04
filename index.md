@@ -35,7 +35,7 @@ Prácticas relacionadas con la administración de servidores Linux.
 
 ---
 
-### UT04 - Scripting en PowerShell
+### 💻 UT04 - Scripting en PowerShell
 
 - [PR0401](UT04/pr0401/pr0401.md) Canalización, objetos y formato en Powershell
 - [PR0402](UT04/pr0402/pr0402.md) Variables, tipos de datos y colecciones
@@ -89,7 +89,15 @@ Prácticas relacionadas con la administración de servidores Linux.
 
 ---
 
-## Información a tener en cuenta
+## Información a tener en cuenta y resúmenes
+
+- [I02](I02/i02/) Administracion remota del sistema
+- [I03](I03/i03/) Scripting en Bash
+- [I04](I04/i04/practicas_aso/I04/io4/diccionario_ps.md) Scripting en PowerShell
+- [I05](I05/i05/) Administración de procesos
+- [I06](I06/i06/) Gestión de tareas
+- [I07](I07/i07/) Active Directory
+- [I08](I08/i08/) Integración de sistemas heterogéneos
 
 ---
 
