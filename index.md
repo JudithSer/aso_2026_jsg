@@ -39,7 +39,7 @@ Prácticas relacionadas con la administración de servidores Linux.
 
 - [PR0401](UT04/pr0401/pr0401.md) Canalización, objetos y formato en Powershell
 - [PR0402](UT04/pr0402/pr0402.md) Variables, tipos de datos y colecciones
-- [PR0403](UT04/pr0403/pr0403.md)
+- [PR0403](UT04/pr0403/pr0403.md) Manipulación de cadenas
 - [PR0404](UT04/pr0404/pr0404.md)
 
 ---
