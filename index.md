@@ -93,7 +93,7 @@ Prácticas relacionadas con la administración de servidores Linux.
 
 - [I02](I02/i02/) Administracion remota del sistema
 - [I03](I03/i03/) Scripting en Bash
-- [I04](I04/i04/practicas_aso/I04/io4/diccionario_ps.md) Scripting en PowerShell
+- [I04](practicas_aso/I04/io4/diccionario_ps.md) Scripting en PowerShell
 - [I05](I05/i05/) Administración de procesos
 - [I06](I06/i06/) Gestión de tareas
 - [I07](I07/i07/) Active Directory
