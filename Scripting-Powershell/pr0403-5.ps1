@@ -12,6 +12,7 @@ $nombre.Substring(0,1).ToUpper() + $nombre.Substring(1).ToLower()
 
 $dn = "CN=Beatriz,OU=Ventas,DC=dominio,DC=local"
 $dn.Split(",")[0].Replace("CN=", "")
+# $dn.Split(",")[0].Split("=")[1]
 
 # 24. Generador de iniciales
 

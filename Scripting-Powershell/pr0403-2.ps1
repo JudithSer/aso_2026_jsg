@@ -8,10 +8,12 @@ $fecha.Replace(".", "-")
 $web = "www.miempresa.es"
 $web.Replace(".es", ".com")
 
-# 8. Censura de datos
+# 8. Censura de datos !!!!!
 
 $tarjeta = "1234-5678-9012-3456"
-$tarjeta.Replace("3456", "XXXX")
+# $tarjeta.Replace("3456", "XXXX")
+$tarjeta.Substring(0, 15) + "XXXX"
+
 
 # 9. Cambio de barra de rutas
 
