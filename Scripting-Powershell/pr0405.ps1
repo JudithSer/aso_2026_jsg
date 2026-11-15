@@ -81,6 +81,15 @@ foreach ($linea in $lineas) {
         continue
     }
 
+    # algunos ip y agent tienen espacios 
+    #$espacios=$linea.indexof(" ")
+    #$metodos=$linea.substring(0,$espacios)
+    #$linea=$linea.substring($espacios).trim()
+    #$espacio=$linea.IndexOf(" ")
+    #$url=$linea.substring(0,$espacio)
+    #$url=$url.split("?")[0]
+    #write-host $url
+
     # Sacamos el metodo HTTP
     $metodo = $linea.Split(" ")[0]
 
