@@ -48,7 +48,7 @@ Prácticas relacionadas con la administración de servidores Linux.
 
 ### UT05 - Administración de procesos
 
-- [PR0501](UT05/pr0501/pr0501.md)
+- [PR0501](UT05/pr0501/pr0501.md) Diagnóstico y control de procesos en Linux
 - [PR0502](UT05/pr0502/pr0502.md)
 - [PR0503](UT05/pr0503/pr0503.md)
 - [PR0504](UT05/pr0504/pr0504.md)
